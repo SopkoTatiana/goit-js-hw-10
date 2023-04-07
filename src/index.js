@@ -46,7 +46,6 @@ function clearFields() {
 }
 
 function renderCountryInfo(data) {
-  console.log(data.languages);
   const {
     name: { official },
     capital,
